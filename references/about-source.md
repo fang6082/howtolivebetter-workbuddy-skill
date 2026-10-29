@@ -2,7 +2,7 @@
 
 ## 本 skill 的内容来源
 
-本技能包内的全部条目正文（`references/book/` 34 节、`references/docs/` 9 篇长文，共 767 条建议）**逐字来自**：
+本技能包内的全部条目正文（`references/book-01.md`~`book-34.md` 34 节、`references/doc-01.md`~`doc-09.md` 9 篇长文，共 767 条建议）**逐字来自**：
 
 - **仓库**：[eternity4719/HowToLiveBetter（高性价比人生指南）](https://github.com/eternity4719/HowToLiveBetter)
 - **作者**：eternity4719
@@ -24,4 +24,4 @@
 
 ## 更新方式
 
-原书更新后，重新同步 `book/` 与 `docs/` 目录并递增 version 字段即可。
+原书更新后，重新同步 `references/book-*.md` 与 `references/doc-*.md` 文件并递增 version 字段即可。
